@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Descartes">descartes</string>
+    <string name="Nietzche">nietzche</string>
+    <string name="Ortega">ortega</string>
+    <string name="Platon">platon</string>
+    <string name="Lock">lock</string>
+</resources>
